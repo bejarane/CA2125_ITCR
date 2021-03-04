@@ -1,0 +1,6 @@
+maquina2.gif
+Conjunto ensamblador de láminas metálicas operado por extensiones robóticas preprogamadas.
+120.8
+130.6
+110.7
+100.12

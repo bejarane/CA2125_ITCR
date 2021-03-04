@@ -1,0 +1,6 @@
+maquina1.gif
+Cortadora CNC para láminas de metal de espesor máximo de 12mm.
+55.6
+150.5
+80.7
+20.3
