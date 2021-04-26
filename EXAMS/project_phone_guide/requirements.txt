@@ -1,0 +1,7 @@
+Create a program that can read phone numbers from lines of text inside a given file.
+
+For example, the program must be able to read phone numbers like (502) 88963512 but it needs to recognize normal phone numbers as 5555-1525 and 25369898.
+
+Also, it is required that the program can get extension numbers composed of 3 digits like 225 or from 4545-9696 123.
+
+All the information must be printed on the console and exported to a file. The program must show how many numbers were found.
